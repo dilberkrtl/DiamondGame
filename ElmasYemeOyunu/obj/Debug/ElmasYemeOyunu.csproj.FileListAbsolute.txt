@@ -1,0 +1,10 @@
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.csprojAssemblyReference.cache
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.Form1.resources
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.csproj.GenerateResource.cache
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\bin\Debug\ElmasYemeOyunu.exe.config
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\bin\Debug\ElmasYemeOyunu.exe
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\bin\Debug\ElmasYemeOyunu.pdb
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.Properties.Resources.resources
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.exe
+C:\Users\DK\source\repos\ElmasYemeOyunu\ElmasYemeOyunu\obj\Debug\ElmasYemeOyunu.pdb
